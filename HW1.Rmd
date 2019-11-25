@@ -1207,3 +1207,5 @@ $$\rho_{k}=\left\{\begin{array}{l}{1 \text { if } k=0} \\ {\frac{(\phi+\theta)(1
   \end{tabular}
   \caption{Table of ARMA(1,1) - (2 of 2)}
 \end{table}
+
+test
